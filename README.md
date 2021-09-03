@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# This is a react application prototype for auth app
+I have used django app as my backend.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
